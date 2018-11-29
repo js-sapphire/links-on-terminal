@@ -1,6 +1,6 @@
 {
   "name": "links-on-terminal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create links on your terminal",
   "main": "index.js",
   "license": "MIT",
