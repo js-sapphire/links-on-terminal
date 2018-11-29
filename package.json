@@ -10,6 +10,10 @@
     "supports-hyperlinks": "^1.0.1"
   },
   "engines": {
-		"node": ">=6"
-	}
+    "node": ">=6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/js-sapphire/links-on-terminal"
+   }	
 }
